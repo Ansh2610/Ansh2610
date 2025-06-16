@@ -68,7 +68,7 @@
 ## ✍️  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-*(Auto-updates every Monday via GitHub Actions.)*
+
 
 ---
 
