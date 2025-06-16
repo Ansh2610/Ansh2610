@@ -1,10 +1,10 @@
 <!-- ┌─────────────────────────────────────────────────────────────────────────┐
-     │  GitHub Profile README – Ansh Gopinath                                 │
+     │  GitHub Profile README — Ansh Gopinath                                 │
      └─────────────────────────────────────────────────────────────────────────┘ -->
 
-<h1 align="center">Hey there 👋 I’m Ansh Gopinath</h1>
+<h1 align="center">✨  Ansh Gopinath</h1>
 <p align="center">
-  <em>Full-stack engineer &bullet; Python&nbsp;|&nbsp;React&nbsp;|&nbsp;AWS &bullet; Turning ideas into useful, well-designed apps</em>
+  <em>Full-stack problem-solver · Python | React | AWS · Where code meets creativity</em>
 </p>
 
 <p align="center">
@@ -16,62 +16,65 @@
     <img alt="LinkedIn"
          src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <!--  🔓  Already uploaded?  Point to the raw file in your profile-repo and uncomment.  -->
   <a href="https://raw.githubusercontent.com/Ansh2610/Ansh2610/main/Ansh_Gopinath_Resume.pdf">
-    <img alt="Resume PDF"
-         src="https://img.shields.io/badge/Resume-Download-here-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+    <img alt="Resume"
+         src="https://img.shields.io/badge/Resume-PDF-here-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
 
 ---
 
-## 🔭 What I’m building / maintaining
-
-| Project | Stack | One-liner impact |
-|---------|-------|------------------|
-| **[EagleEyes-Search](https://github.com/Ansh2610/EagleEyes-Search)** | Python&nbsp;· OpenCV&nbsp;· YOLOv8 | Cuts aerial SAR review time **70 %** with real-time color detection |
-| **[SceneGraph-2D](https://github.com/Ansh2610/SceneGraph-2D)** | Java&nbsp;11&nbsp;· JavaFX | Hierarchical graphics editor → instant prototyping for 2D games |
-| **[CourseSphere Chatbot](https://github.com/Ansh2610/courseSphere-chatbot)** | Node.js&nbsp;· React&nbsp;· LangChain | Slack-style Q&A bot that answers 150 + ASU course FAQs |
-| **[Python Game](https://github.com/Ansh2610/Python_game)** | Pygame&nbsp;· Tiled | Retro platformer • play in browser + desktop build |
-
-> *Every repo has a quick-start, GIF demo, and MIT license—dive in!*
+## 🌟  Quick Highlights
+- 📡 **Computer-Vision Engineer, Eagle Eyes Search** — boosted aerial SAR detection accuracy **+15 %** and cut false negatives **−10 %** with a custom HSV + YOLO pipeline.:contentReference[oaicite:4]{index=4}  
+- 🎮 **Indie Game Dev** — built a Pygame fighter with Google Cloud leaderboards; 10 playable characters & lightning-fast response (25 % perf gain).:contentReference[oaicite:5]{index=5}  
+- 📈 **Data-Driven Safety** — mined campus security logs, rolled ArcGIS dashboards, and trimmed incident rate **−20 %** while slashing response time **−15 %**.:contentReference[oaicite:6]{index=6}  
+- 🎓 **Teaching Assistant** — mentored 200 + budding devs across Java, C/C++, Scheme, and Prolog; powered by coffee and bad puns.
 
 ---
 
-## 🛠️  Toolbox
+## 🚀  Building / Maintaining
+| Project | Stack | One-liner |
+|---------|-------|-----------|
+| **EagleEyes-Search** | Python · OpenCV · YOLOv8 | Real-time SAR detector (review time ↓ 70 %) |
+| **SceneGraph-2D** | Java 11 · JavaFX | Drag-and-drop scene-graph editor |
+| **CourseSphere Chatbot** | Node.js · React · LangChain | Answers 150 + ASU course FAQs |
+| **Arian** | Python · Pygame · GCP | Retro fighter with cloud leaderboards |
 
+*(Links live inside each repo README, no link-spam here)*
+
+---
+
+## 🛠️  Tech Playground
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 ---
 
-## 📈  Snapshot
-
+## 🔥  Current Commit Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ansh2610&show_icons=true&hide_title=true&hide_rank=false&count_private=true&theme=default">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ansh2610&theme=default" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ansh2610&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 
 ---
 
-## ✍️  Latest blog posts
+## ✍️  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-*(Auto-updated every Monday via GitHub Actions.)*
+*(Auto-updates every Monday via GitHub Actions.)*
 
 ---
 
-### 🤙  Reach out
+### 💌  Let’s Connect
+`ansh.gopinath.dev @ gmail.com` &nbsp;|&nbsp; LinkedIn DMs always open  
 
-* **Email:** ansh.gopinath.dev&nbsp;at&nbsp;gmail.com  
-* **DMs:** I’m most active on LinkedIn—always up for collabs, code reviews, or hackathon chatter.
-
-> “Code is a creative medium—make it useful, make it beautiful.”
+> *“Ship it. Iterate. Repeat.”*
 
 <!-- END README -->
