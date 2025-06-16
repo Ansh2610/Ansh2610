@@ -17,7 +17,7 @@
          src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <!--  🔓  Already uploaded?  Point to the raw file in your profile-repo and uncomment.  -->
-  <a href="https://raw.githubusercontent.com/Ansh2610/Ansh2610/main/Ansh_Gopinath_Resume.pdf">
+  <a href="https://raw.githubusercontent.com/Ansh2610/Ansh2610/main/Ansh_Gopinath_Resume_2025.pdf">
     <img alt="Resume"
          src="https://img.shields.io/badge/Resume-PDF-here-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
