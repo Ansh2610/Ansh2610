@@ -1,76 +1,139 @@
-<!-- GitHub Profile README — Ansh Gopinath -->
+<div align="center">
 
-<h1 align="center">✨  Ansh Gopinath</h1>
-<p align="center">
-  <em>Full-stack problem-solver · Python | React | AWS · Where code meets creativity</em>
-</p>
+  <h1>Hi, I'm Ansh 👋</h1>
+  <p><strong>CS @ ASU ’25 · Computer Vision + Full-stack Engineer</strong></p>
+  <p>React · FastAPI · YOLOv8 · Python · TypeScript</p>
 
-<p align="center">
-  <a href="https://www.anshgopinath.com">
-    <img alt="Website"
-         src="https://img.shields.io/badge/Portfolio-anshgopinath.com-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/ansh-gopinath-561537152/">
-    <img alt="LinkedIn"
-         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://raw.githubusercontent.com/Ansh2610/Ansh2610/main/Ansh_Gopinath_Resume_2025.pdf">
-    <img alt="Resume"
-         src="https://img.shields.io/badge/Resume-PDF-ff4c4c?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
-  </a>
-</p>
+  <p>
+    <a href="https://www.anshgopinath.com">
+      <img alt="Portfolio"
+           src="https://img.shields.io/badge/Portfolio-anshgopinath.com-181717?style=for-the-badge&logo=github">
+    </a>
+    <a href="https://www.linkedin.com/in/ansh-gopinath-561537152/">
+      <img alt="LinkedIn"
+           src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://raw.githubusercontent.com/Ansh2610/Ansh2610/main/Ansh_Gopinath_Resume_2025.pdf">
+      <img alt="Resume"
+           src="https://img.shields.io/badge/Resume-PDF-ff4c4c?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+    </a>
+  </p>
 
----
-
-## 🌟  Quick Highlights
-* 📡 **Computer-Vision Engineer, EagleEyes Search** – boosted aerial SAR detection accuracy **+15 %** & cut false negatives **−10 %** with a custom HSV + YOLO pipeline.  
-* 🎮 **Indie Game Dev** – built a Pygame fighter with Google Cloud leaderboards; 10 playable characters & 25 % faster frame-times.  
-* 📈 **Data-Driven Safety** – mined campus security logs to build ArcGIS dashboards that reduced incident rates **−20 %** and response times **−15 %**.  
-* 🎓 **Teaching Assistant** – mentored 200 + undergrads across Java, C/C++, Scheme & Prolog (fuelled by ☕️ and bad puns).
+</div>
 
 ---
 
-## 🚀  Building / Maintaining
-| Project | Stack | One-liner |
-|---------|-------|-----------|
-| **EagleEyes-Search** | Python · OpenCV · YOLOv8 | Real-time SAR detector (review time ↓ 70 %) |
-| **SceneGraph-2D** | Java 11 · JavaFX | Drag-and-drop scene-graph editor |
-| **CourseSphere Chatbot** | Node.js · React · LangChain | Answers 150 + ASU course FAQs |
-| **Arian** | Python · Pygame · GCP | Retro fighter with cloud leaderboards |
+### What I’ve been up to
 
-*(Links live inside each repo README – keeping the list clean here)*
+- **CV Engineer Intern @ Omnidya** – built a PySide6 desktop review tool and data workflows on top of 500+ videos / 6,000+ frames, cutting the team’s manual annotation workload by ~60%.
+- **Eagle Eyes Search (ASU capstone)** – owned the classical CV subsystem that recovered 15–20% of YOLO-missed small humans and reduced hybrid false positives by 40–60% on aerial SAR imagery.
+- **VisionPulse** – full-stack object-detection validation app (React + TypeScript + FastAPI + YOLOv8) with in-browser annotations and CPU inference in the 100–200 ms range per image.
+- **Supervisor, Campus Safety Aides (ASU PD)** – used ArcGIS crime heatmaps + scheduling tools to reshape patrol coverage, contributing to a 70–80% drop in criminal-damage incidents across two campuses.
 
 ---
 
-## 🛠️  Tech Playground
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+### Featured projects
+
+I like building tools that people actually use. Here are the ones I’m actively maintaining:
+
+| Project | Stack | What it is |
+|--------|-------|------------|
+| **VisionPulse** | React · TypeScript · FastAPI · YOLOv8 · Docker | Human-in-the-loop detector validation: upload images, review detections, tweak boxes, and export clean labels. Runs YOLOv8 on CPU at ~100–200 ms per image. |
+| **SkillLens** | FastAPI · Streamlit · Pydantic · Gemini / GPT-4 / Claude | Resume analyzer that parses PDFs, calls multiple LLMs with a shared schema, and returns structured JSON so you can diff skills and gaps instead of reading blobs of text. |
+| **CourseSphere** | Node.js · Express · OpenAI API · Selenium · SQLite | Backend + scrapers that pull data from RMP/Reddit and aggregate it into a SQLite dataset to help 48k+ ASU students reason about courses and instructors. |
+| **EagleEyes-Search** | Python · OpenCV · YOLOv8 | Classical-vision modules (HSV filtering, contour-based refinement, ROI logic) that plug into a YOLOv8 pipeline and improve recall on tiny targets while cutting false positives. |
+| **Arian** | Python · Pygame · Firestore | Local PvP 2D fighter with 10 playable characters, basic combos, and Google Cloud Firestore-backed leaderboards. |
+
+> Each repo has a more detailed README with setup steps and screenshots.
 
 ---
 
-## 🔥  Current Commit Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ansh2610&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=true">
-</p>
+### Toolbox
+
+<table>
+  <tr>
+    <td valign="top">
+
+<strong>Languages</strong>
+
+- Python  
+- TypeScript / JavaScript  
+- Java  
+- C / C++
+
+<br/>
+
+<strong>Backend</strong>
+
+- FastAPI, Node.js / Express  
+- REST, WebSockets  
+- Pydantic, SQLAlchemy  
+- SQLite, PostgreSQL
+
+   </td>
+   <td valign="top">
+
+<strong>ML / CV</strong>
+
+- YOLOv8  
+- OpenCV  
+- NumPy, Pandas  
+
+<br/>
+
+<strong>Frontend & UI</strong>
+
+- React + TypeScript  
+- Tailwind  
+- Streamlit  
+
+<br/>
+
+<strong>Infra</strong>
+
+- Docker  
+- GitHub Actions  
+- AWS & GCP (core services)
+
+   </td>
+  </tr>
+</table>
 
 ---
 
-## ✍️  Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### GitHub at a glance
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ansh2610&show_icons=true&theme=transparent&hide_title=true&rank_icon=github"
+    alt="Ansh's GitHub stats"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh2610&layout=compact&theme=transparent&hide_title=true"
+    alt="Top languages"
+    height="160"
+  />
+
+</div>
+
+<details>
+  <summary>Streak graph (for the curious)</summary>
+  <br/>
+  <div align="center">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=Ansh2610&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=true"
+      alt="GitHub streak graph"
+    />
+  </div>
+</details>
 
 ---
 
-### 💌  Let’s Connect
-`ansh.gopinath.dev @ gmail.com` &nbsp;|&nbsp; LinkedIn DMs always open
+### Contact
 
-> *“Ship it. Iterate. Repeat.”*
+- Email: `ansh.gopinath.dev [at] gmail.com`  
+- LinkedIn: messages always open
 
-<!-- END README -->
+> Ship it → see what breaks → fix it → repeat.
