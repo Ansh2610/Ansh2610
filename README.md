@@ -28,7 +28,6 @@
 - **CV Engineer Intern @ Omnidya** – built a PySide6 desktop review tool and data workflows on top of 500+ videos / 6,000+ frames, cutting the team’s manual annotation workload by ~60%.
 - **Eagle Eyes Search (ASU capstone)** – owned the classical CV subsystem that recovered 15–20% of YOLO-missed small humans and reduced hybrid false positives by 40–60% on aerial SAR imagery.
 - **VisionPulse** – full-stack object-detection validation app (React + TypeScript + FastAPI + YOLOv8) with in-browser annotations and CPU inference in the 100–200 ms range per image.
-- **Supervisor, Campus Safety Aides (ASU PD)** – used ArcGIS crime heatmaps + scheduling tools to reshape patrol coverage, contributing to a 70–80% drop in criminal-damage incidents across two campuses.
 
 ---
 
